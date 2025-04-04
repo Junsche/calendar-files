@@ -1,425 +1,348 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:-//University Bamberg//EN
+METHOD:PUBLISH
+PRODID:-//Junsche Timetable//EN
 BEGIN:VEVENT
-UID:course-1@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250407T100000
-DTEND;TZID=Europe/Berlin:20250407T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-0@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250407T160000
+DTEND;TZID=Europe/Berlin:20250407020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-2@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250414T100000
-DTEND;TZID=Europe/Berlin:20250414T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-1@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250414T160000
+DTEND;TZID=Europe/Berlin:20250414020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-3@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250421T100000
-DTEND;TZID=Europe/Berlin:20250421T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-2@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250421T160000
+DTEND;TZID=Europe/Berlin:20250421020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-4@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250428T100000
-DTEND;TZID=Europe/Berlin:20250428T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-3@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250428T160000
+DTEND;TZID=Europe/Berlin:20250428020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-5@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250505T100000
-DTEND;TZID=Europe/Berlin:20250505T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-4@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250505T160000
+DTEND;TZID=Europe/Berlin:20250505020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-6@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250512T100000
-DTEND;TZID=Europe/Berlin:20250512T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-5@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250512T160000
+DTEND;TZID=Europe/Berlin:20250512020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-7@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250519T100000
-DTEND;TZID=Europe/Berlin:20250519T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-6@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250519T160000
+DTEND;TZID=Europe/Berlin:20250519020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-8@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250526T100000
-DTEND;TZID=Europe/Berlin:20250526T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-7@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250526T160000
+DTEND;TZID=Europe/Berlin:20250526020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-9@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250602T100000
-DTEND;TZID=Europe/Berlin:20250602T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-8@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250602T160000
+DTEND;TZID=Europe/Berlin:20250602020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-10@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250609T100000
-DTEND;TZID=Europe/Berlin:20250609T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-9@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250609T160000
+DTEND;TZID=Europe/Berlin:20250609020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-11@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250616T100000
-DTEND;TZID=Europe/Berlin:20250616T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-10@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250616T160000
+DTEND;TZID=Europe/Berlin:20250616020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-12@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250623T100000
-DTEND;TZID=Europe/Berlin:20250623T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-11@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250623T160000
+DTEND;TZID=Europe/Berlin:20250623020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-13@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250630T100000
-DTEND;TZID=Europe/Berlin:20250630T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-12@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250630T160000
+DTEND;TZID=Europe/Berlin:20250630020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-14@univis
-SUMMARY:Statistik I (Prof. Beispiel)
-DTSTART;TZID=Europe/Berlin:20250707T100000
-DTEND;TZID=Europe/Berlin:20250707T120000
-LOCATION:WE5/00.019
-DESCRIPTION:Statistik I taught by Prof. Beispiel in WE5/00.019
+UID:xai-seminar-13@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250707T160000
+DTEND;TZID=Europe/Berlin:20250707020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-15@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250408T120000
-DTEND;TZID=Europe/Berlin:20250408T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:xai-seminar-14@junsche-calendar
+SUMMARY:xAI-Seminar (Ledig)
+DTSTART;TZID=Europe/Berlin:20250714T160000
+DTEND;TZID=Europe/Berlin:20250714020000
+LOCATION:WE5/04.003
+DESCRIPTION:xAI-B1: Bachelorseminar Erklärbares Maschinelles Lernen by Ledig
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-16@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250415T120000
-DTEND;TZID=Europe/Berlin:20250415T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-0@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250409T120000
+DTEND;TZID=Europe/Berlin:20250409020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-17@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250422T120000
-DTEND;TZID=Europe/Berlin:20250422T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-1@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250416T120000
+DTEND;TZID=Europe/Berlin:20250416020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-18@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250429T120000
-DTEND;TZID=Europe/Berlin:20250429T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-2@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250423T120000
+DTEND;TZID=Europe/Berlin:20250423020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-19@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250506T120000
-DTEND;TZID=Europe/Berlin:20250506T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-3@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250430T120000
+DTEND;TZID=Europe/Berlin:20250430020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-20@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250513T120000
-DTEND;TZID=Europe/Berlin:20250513T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-4@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250507T120000
+DTEND;TZID=Europe/Berlin:20250507020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-21@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250520T120000
-DTEND;TZID=Europe/Berlin:20250520T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-5@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250514T120000
+DTEND;TZID=Europe/Berlin:20250514020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-22@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250527T120000
-DTEND;TZID=Europe/Berlin:20250527T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-6@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250521T120000
+DTEND;TZID=Europe/Berlin:20250521020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-23@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250603T120000
-DTEND;TZID=Europe/Berlin:20250603T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-7@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250528T120000
+DTEND;TZID=Europe/Berlin:20250528020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-24@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250610T120000
-DTEND;TZID=Europe/Berlin:20250610T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-8@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250604T120000
+DTEND;TZID=Europe/Berlin:20250604020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-25@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250617T120000
-DTEND;TZID=Europe/Berlin:20250617T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-9@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250611T120000
+DTEND;TZID=Europe/Berlin:20250611020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-26@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250624T120000
-DTEND;TZID=Europe/Berlin:20250624T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-10@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250618T120000
+DTEND;TZID=Europe/Berlin:20250618020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-27@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250701T120000
-DTEND;TZID=Europe/Berlin:20250701T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-11@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250625T120000
+DTEND;TZID=Europe/Berlin:20250625020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-28@univis
-SUMMARY:Web Technologien (Henrich)
-DTSTART;TZID=Europe/Berlin:20250708T120000
-DTEND;TZID=Europe/Berlin:20250708T140000
-LOCATION:WE5/00.019
-DESCRIPTION:Web Technologien taught by Henrich in WE5/00.019
+UID:algok-uebung-12@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250702T120000
+DTEND;TZID=Europe/Berlin:20250702020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-29@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250410T140000
-DTEND;TZID=Europe/Berlin:20250410T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
+UID:algok-uebung-13@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250709T120000
+DTEND;TZID=Europe/Berlin:20250709020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-30@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250417T140000
-DTEND;TZID=Europe/Berlin:20250417T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
+UID:algok-uebung-14@junsche-calendar
+SUMMARY:AlgoK Übung (N.N.)
+DTSTART;TZID=Europe/Berlin:20250716T120000
+DTEND;TZID=Europe/Berlin:20250716020000
+LOCATION:WE5/02.020
+DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
+
 BEGIN:VEVENT
-UID:course-31@univis
-SUMMARY:Data Science (Messer)
+UID:event-r1@junsche-calendar
+SUMMARY:Statistische Programmierung mit R (Messer)
 DTSTART;TZID=Europe/Berlin:20250424T140000
-DTEND;TZID=Europe/Berlin:20250424T160000
+DTEND;TZID=Europe/Berlin:20250424T180000
 LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
+DESCRIPTION:Blockveranstaltung
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-32@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250501T140000
-DTEND;TZID=Europe/Berlin:20250501T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
+UID:event-xai@junsche-calendar
+SUMMARY:xAI-Proj-B: Bachelorprojekt (Dörrich, Ledig)
+DTSTART;TZID=Europe/Berlin:20250424T140000
+DTEND;TZID=Europe/Berlin:20250424T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Projektveranstaltung Erklärbares Maschinelles Lernen
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-33@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250508T140000
-DTEND;TZID=Europe/Berlin:20250508T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
+UID:event-swt@junsche-calendar
+SUMMARY:SWT-FSE-B: Foundations of Software Engineering (Lüttgen)
+DTSTART;TZID=Europe/Berlin:20250424T161500
+DTEND;TZID=Europe/Berlin:20250424T174500
+LOCATION:WE5/00.022
+DESCRIPTION:Vorbesprechung
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:course-34@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250515T140000
-DTEND;TZID=Europe/Berlin:20250515T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
+UID:event-visgiv@junsche-calendar
+SUMMARY:VIS-GIV-B: Online Meeting (Poddar)
+DTSTART;TZID=Europe/Berlin:20250424T160000
+DTEND;TZID=Europe/Berlin:20250424T180000
+LOCATION:Online
+DESCRIPTION:Grundlagen der Informationsvisualisierung
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
-BEGIN:VEVENT
-UID:course-35@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250522T140000
-DTEND;TZID=Europe/Berlin:20250522T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:course-36@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250529T140000
-DTEND;TZID=Europe/Berlin:20250529T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:course-37@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250605T140000
-DTEND;TZID=Europe/Berlin:20250605T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:course-38@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250612T140000
-DTEND;TZID=Europe/Berlin:20250612T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:course-39@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250619T140000
-DTEND;TZID=Europe/Berlin:20250619T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:course-40@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250626T140000
-DTEND;TZID=Europe/Berlin:20250626T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:course-41@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250703T140000
-DTEND;TZID=Europe/Berlin:20250703T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:course-42@univis
-SUMMARY:Data Science (Messer)
-DTSTART;TZID=Europe/Berlin:20250710T140000
-DTEND;TZID=Europe/Berlin:20250710T160000
-LOCATION:RZ/01.02
-DESCRIPTION:Data Science taught by Messer in RZ/01.02
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
+
 END:VCALENDAR
