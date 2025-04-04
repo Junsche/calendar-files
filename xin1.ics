@@ -1,4 +1,4 @@
-EGIN:VEVENT
+BEGIN:VEVENT
 UID:xai-seminar-0@junsche-calendar
 SUMMARY:xAI-Seminar (Ledig)
 DTSTART;TZID=Europe/Berlin:20250407T160000
