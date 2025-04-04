@@ -1,3 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Junsche Timetable//EN
 BEGIN:VEVENT
 UID:xai-seminar-0@junsche-calendar
 SUMMARY:xAI-Seminar (Ledig)
