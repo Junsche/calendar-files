@@ -303,6 +303,7 @@ DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
+
 BEGIN:VEVENT
 UID:event-r1@junsche-calendar
 SUMMARY:Statistische Programmierung mit R (Messer)
@@ -324,6 +325,16 @@ STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:event-swt@junsche-calendar
+SUMMARY:SWT-FSE-B: Foundations of Software Engineering (Lüttgen)
+DTSTART;TZID=Europe/Berlin:20250424T161500
+DTEND;TZID=Europe/Berlin:20250424T174500
+LOCATION:WE5/00.022
+DESCRIPTION:Vorbesprechung
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:event-visgiv@junsche-calendar
 SUMMARY:VIS-GIV-B: Online Meeting (Poddar)
 DTSTART;TZID=Europe/Berlin:20250424T160000
@@ -333,6 +344,8 @@ DESCRIPTION:Grundlagen der Informationsvisualisierung
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
+
+END:VCALENDAR
 BEGIN:VEVENT
 UID:xaisem-1@junsche-calendar
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
@@ -483,3 +496,4 @@ DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
+END:VCALENDAR
