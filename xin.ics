@@ -303,7 +303,6 @@ DESCRIPTION:Übung zu Algorithmen und Komplexität by N.N.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
-
 BEGIN:VEVENT
 UID:event-r1@junsche-calendar
 SUMMARY:Statistische Programmierung mit R (Messer)
@@ -325,22 +324,162 @@ STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:event-swt@junsche-calendar
-SUMMARY:SWT-FSE-B: Foundations of Software Engineering (Lüttgen)
-DTSTART;TZID=Europe/Berlin:20250424T161500
-DTEND;TZID=Europe/Berlin:20250424T174500
-LOCATION:WE5/00.022
-DESCRIPTION:Vorbesprechung
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:event-visgiv@junsche-calendar
 SUMMARY:VIS-GIV-B: Online Meeting (Poddar)
 DTSTART;TZID=Europe/Berlin:20250424T160000
 DTEND;TZID=Europe/Berlin:20250424T180000
 LOCATION:Online
 DESCRIPTION:Grundlagen der Informationsvisualisierung
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-1@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250407T160000
+DTEND;TZID=Europe/Berlin:20250407T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-2@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250414T160000
+DTEND;TZID=Europe/Berlin:20250414T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-3@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250421T160000
+DTEND;TZID=Europe/Berlin:20250421T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-4@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250428T160000
+DTEND;TZID=Europe/Berlin:20250428T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-5@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250505T160000
+DTEND;TZID=Europe/Berlin:20250505T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-6@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250512T160000
+DTEND;TZID=Europe/Berlin:20250512T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-7@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250519T160000
+DTEND;TZID=Europe/Berlin:20250519T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-8@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250526T160000
+DTEND;TZID=Europe/Berlin:20250526T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-9@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250602T160000
+DTEND;TZID=Europe/Berlin:20250602T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-10@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250609T160000
+DTEND;TZID=Europe/Berlin:20250609T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-11@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250616T160000
+DTEND;TZID=Europe/Berlin:20250616T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-12@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250623T160000
+DTEND;TZID=Europe/Berlin:20250623T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-13@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250630T160000
+DTEND;TZID=Europe/Berlin:20250630T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-14@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250707T160000
+DTEND;TZID=Europe/Berlin:20250707T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:xaisem-15@junsche-calendar
+SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+DTSTART;TZID=Europe/Berlin:20250714T160000
+DTEND;TZID=Europe/Berlin:20250714T180000
+LOCATION:WE5/04.003
+DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Ledig in WE5/04.003
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
