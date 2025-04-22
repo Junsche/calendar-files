@@ -1,530 +1,2316 @@
 BEGIN:VCALENDAR
+
 VERSION:2.0
+
 CALSCALE:GREGORIAN
+
 METHOD:PUBLISH
-PRODID:-//Custom//Schedule Update//EN
+
+PRODID:-//Merged Timetable//EN
+
 BEGIN:VEVENT
-UID:uid-1000
-SUMMARY:Statistische Programmierung mit R (Messer)
-DTSTART;TZID=Europe/Berlin:20250424T140000
-DTEND;TZID=Europe/Berlin:20250424T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Blockveranstaltung von Paul Messer
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uid-1001
-SUMMARY:Statistische Programmierung mit R (Messer)
-DTSTART;TZID=Europe/Berlin:20250425T100000
-DTEND;TZID=Europe/Berlin:20250425T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Blockveranstaltung von Paul Messer
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uid-1002
-SUMMARY:Statistische Programmierung mit R (Messer)
-DTSTART;TZID=Europe/Berlin:20250508T140000
-DTEND;TZID=Europe/Berlin:20250508T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Blockveranstaltung von Paul Messer
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uid-1003
-SUMMARY:Statistische Programmierung mit R (Messer)
-DTSTART;TZID=Europe/Berlin:20250509T100000
-DTEND;TZID=Europe/Berlin:20250509T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Blockveranstaltung von Paul Messer
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uid-1004
-SUMMARY:Statistische Programmierung mit R (Messer)
-DTSTART;TZID=Europe/Berlin:20250515T140000
-DTEND;TZID=Europe/Berlin:20250515T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Blockveranstaltung von Paul Messer
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uid-1005
-SUMMARY:Statistische Programmierung mit R (Messer)
-DTSTART;TZID=Europe/Berlin:20250516T100000
-DTEND;TZID=Europe/Berlin:20250516T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Blockveranstaltung von Paul Messer
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uid-1006
-SUMMARY:Statistische Programmierung mit R (Messer)
-DTSTART;TZID=Europe/Berlin:20250522T140000
-DTEND;TZID=Europe/Berlin:20250522T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Blockveranstaltung von Paul Messer
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uid-1007
-SUMMARY:Statistische Programmierung mit R (Messer)
-DTSTART;TZID=Europe/Berlin:20250523T100000
-DTEND;TZID=Europe/Berlin:20250523T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Blockveranstaltung von Paul Messer
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:uid-1008
-SUMMARY:Statistische Programmierung mit R (Klausur)
-DTSTART;TZID=Europe/Berlin:20250605T140000
-DTEND;TZID=Europe/Berlin:20250605T180000
-LOCATION:RZ/01.02
-DESCRIPTION:Klausurtermin für Statistische Programmierung mit R
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
+
 UID:uid-1009
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250424T140000
+
 DTEND;TZID=Europe/Berlin:20250424T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1010
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250501T140000
+
 DTEND;TZID=Europe/Berlin:20250501T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1011
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250508T140000
+
 DTEND;TZID=Europe/Berlin:20250508T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1012
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250515T140000
+
 DTEND;TZID=Europe/Berlin:20250515T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1013
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250522T140000
+
 DTEND;TZID=Europe/Berlin:20250522T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1014
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250529T140000
+
 DTEND;TZID=Europe/Berlin:20250529T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1015
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250605T140000
+
 DTEND;TZID=Europe/Berlin:20250605T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1016
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250612T140000
+
 DTEND;TZID=Europe/Berlin:20250612T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1017
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250619T140000
+
 DTEND;TZID=Europe/Berlin:20250619T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1018
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250626T140000
+
 DTEND;TZID=Europe/Berlin:20250626T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1019
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250703T140000
+
 DTEND;TZID=Europe/Berlin:20250703T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1020
+
 SUMMARY:xAI-Projekt (Dörnich)
+
 DTSTART;TZID=Europe/Berlin:20250710T140000
+
 DTEND;TZID=Europe/Berlin:20250710T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Projektveranstaltung mit Dörnich
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1021
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250424T160000
+
 DTEND;TZID=Europe/Berlin:20250424T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1022
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250501T160000
+
 DTEND;TZID=Europe/Berlin:20250501T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1023
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250508T160000
+
 DTEND;TZID=Europe/Berlin:20250508T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1024
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250515T160000
+
 DTEND;TZID=Europe/Berlin:20250515T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1025
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250522T160000
+
 DTEND;TZID=Europe/Berlin:20250522T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1026
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250529T160000
+
 DTEND;TZID=Europe/Berlin:20250529T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1027
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250605T160000
+
 DTEND;TZID=Europe/Berlin:20250605T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1028
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250612T160000
+
 DTEND;TZID=Europe/Berlin:20250612T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1029
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250619T160000
+
 DTEND;TZID=Europe/Berlin:20250619T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1030
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250626T160000
+
 DTEND;TZID=Europe/Berlin:20250626T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1031
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250703T160000
+
 DTEND;TZID=Europe/Berlin:20250703T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:uid-1032
+
 SUMMARY:VIS-GIV-B Online (Poddar)
+
 DTSTART;TZID=Europe/Berlin:20250710T160000
+
 DTEND;TZID=Europe/Berlin:20250710T180000
+
 LOCATION:Online
+
 DESCRIPTION:Online Veranstaltung mit Poddar
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
 
 BEGIN:VEVENT
+
 UID:fse-uebung-recurring@junsche-calendar
+
 SUMMARY:Foundations of Software Engineering (Übung)
+
 DTSTART;TZID=Europe/Berlin:20250501T161500
+
 DTEND;TZID=Europe/Berlin:20250501T174500
+
 RRULE:FREQ=WEEKLY;UNTIL=20250626T000000Z
+
 LOCATION:WE5/01.006
+
 DESCRIPTION:Foundations of Software Engineering Übung by Lüttgen
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:fse-uebung-20250424@junsche-calendar
-SUMMARY:Foundations of Software Engineering (Übung) (Vorbesprechung)
-DTSTART;TZID=Europe/Berlin:20250424T161500
-DTEND;TZID=Europe/Berlin:20250424T174500
-LOCATION:WE5/00.022
-DESCRIPTION:Foundations of Software Engineering Übung by Lüttgen (Vorbesprechung)
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:fse-uebung-20250612@junsche-calendar
-SUMMARY:Foundations of Software Engineering (Übung) (Einzeltermin)
-DTSTART;TZID=Europe/Berlin:20250612T161500
-DTEND;TZID=Europe/Berlin:20250612T174500
-LOCATION:WE5/00.019
-DESCRIPTION:Foundations of Software Engineering Übung by Lüttgen (Einzeltermin)
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:fse-uebung-20250703@junsche-calendar
-SUMMARY:Foundations of Software Engineering (Übung) (Einzeltermin)
-DTSTART;TZID=Europe/Berlin:20250703T161500
-DTEND;TZID=Europe/Berlin:20250703T174500
-LOCATION:WE5/00.019
-DESCRIPTION:Foundations of Software Engineering Übung by Lüttgen (Einzeltermin)
-STATUS:CONFIRMED
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:algok-akb-lecture@junsche-calendar
-SUMMARY:Algorithmen und Komplexität (Lecture)
-DTSTART;TZID=Europe/Berlin:20250409T120000
-DTEND;TZID=Europe/Berlin:20250409T140000
-RRULE:FREQ=WEEKLY;UNTIL=20250709T000000Z
-LOCATION:WE5/02.020
-DESCRIPTION:Algorithmen und Komplexität by N.N.
-STATUS:CONFIRMED
-SEQUENCE:0
+
 END:VEVENT
 
 BEGIN:VEVENT
+
+UID:fse-uebung-20250424@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Übung) (Vorbesprechung)
+
+DTSTART;TZID=Europe/Berlin:20250424T161500
+
+DTEND;TZID=Europe/Berlin:20250424T174500
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering Übung by Lüttgen (Vorbesprechung)
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:fse-uebung-20250612@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Übung) (Einzeltermin)
+
+DTSTART;TZID=Europe/Berlin:20250612T161500
+
+DTEND;TZID=Europe/Berlin:20250612T174500
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Foundations of Software Engineering Übung by Lüttgen (Einzeltermin)
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:fse-uebung-20250703@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Übung) (Einzeltermin)
+
+DTSTART;TZID=Europe/Berlin:20250703T161500
+
+DTEND;TZID=Europe/Berlin:20250703T174500
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Foundations of Software Engineering Übung by Lüttgen (Einzeltermin)
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 UID:xai-seminar-20250407@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250407T160000
+
 DTEND;TZID=Europe/Berlin:20250407T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250414@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250414T160000
+
 DTEND;TZID=Europe/Berlin:20250414T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250421@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250421T160000
+
 DTEND;TZID=Europe/Berlin:20250421T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250428@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250428T160000
+
 DTEND;TZID=Europe/Berlin:20250428T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250505@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250505T160000
+
 DTEND;TZID=Europe/Berlin:20250505T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250512@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250512T160000
+
 DTEND;TZID=Europe/Berlin:20250512T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250519@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250519T160000
+
 DTEND;TZID=Europe/Berlin:20250519T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250526@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250526T160000
+
 DTEND;TZID=Europe/Berlin:20250526T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250602@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250602T160000
+
 DTEND;TZID=Europe/Berlin:20250602T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250609@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250609T160000
+
 DTEND;TZID=Europe/Berlin:20250609T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250616@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250616T160000
+
 DTEND;TZID=Europe/Berlin:20250616T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250623@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250623T160000
+
 DTEND;TZID=Europe/Berlin:20250623T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250630@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250630T160000
+
 DTEND;TZID=Europe/Berlin:20250630T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
 BEGIN:VEVENT
+
 UID:xai-seminar-20250707@junsche-calendar
+
 SUMMARY:xAI-Sem-B1: Bachelorseminar Erklärbares Maschinelles Lernen (Ledig)
+
 DTSTART;TZID=Europe/Berlin:20250707T160000
+
 DTEND;TZID=Europe/Berlin:20250707T180000
+
 LOCATION:WE5/04.003
+
 DESCRIPTION:Bachelorseminar Erklärbares Maschinelles Lernen by Prof. Dr. Christian Ledig in WE5/04.003
+
 STATUS:CONFIRMED
+
 SEQUENCE:0
+
 END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-1@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250407T100000
+
+DTEND;TZID=Europe/Berlin:20250407T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-2@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250414T100000
+
+DTEND;TZID=Europe/Berlin:20250414T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-3@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250421T100000
+
+DTEND;TZID=Europe/Berlin:20250421T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-4@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250428T100000
+
+DTEND;TZID=Europe/Berlin:20250428T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-5@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250505T100000
+
+DTEND;TZID=Europe/Berlin:20250505T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-6@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250512T100000
+
+DTEND;TZID=Europe/Berlin:20250512T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-7@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250519T100000
+
+DTEND;TZID=Europe/Berlin:20250519T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-8@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250526T100000
+
+DTEND;TZID=Europe/Berlin:20250526T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-9@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250602T100000
+
+DTEND;TZID=Europe/Berlin:20250602T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-10@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250609T100000
+
+DTEND;TZID=Europe/Berlin:20250609T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-11@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250616T100000
+
+DTEND;TZID=Europe/Berlin:20250616T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-12@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250623T100000
+
+DTEND;TZID=Europe/Berlin:20250623T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-13@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250630T100000
+
+DTEND;TZID=Europe/Berlin:20250630T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-14@junsche-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250707T100000
+
+DTEND;TZID=Europe/Berlin:20250707T120000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Einführung in das wissenschaftliche Arbeiten by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-15@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250408T120000
+
+DTEND;TZID=Europe/Berlin:20250408T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-16@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250415T120000
+
+DTEND;TZID=Europe/Berlin:20250415T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-17@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250422T120000
+
+DTEND;TZID=Europe/Berlin:20250422T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-18@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250429T120000
+
+DTEND;TZID=Europe/Berlin:20250429T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-19@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250506T120000
+
+DTEND;TZID=Europe/Berlin:20250506T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-20@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250513T120000
+
+DTEND;TZID=Europe/Berlin:20250513T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-21@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250520T120000
+
+DTEND;TZID=Europe/Berlin:20250520T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-22@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250527T120000
+
+DTEND;TZID=Europe/Berlin:20250527T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-23@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250603T120000
+
+DTEND;TZID=Europe/Berlin:20250603T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-24@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250610T120000
+
+DTEND;TZID=Europe/Berlin:20250610T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-25@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250617T120000
+
+DTEND;TZID=Europe/Berlin:20250617T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-26@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250624T120000
+
+DTEND;TZID=Europe/Berlin:20250624T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-27@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250701T120000
+
+DTEND;TZID=Europe/Berlin:20250701T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-28@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250708T120000
+
+DTEND;TZID=Europe/Berlin:20250708T140000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-29@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250408T100000
+
+DTEND;TZID=Europe/Berlin:20250408T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-30@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250415T100000
+
+DTEND;TZID=Europe/Berlin:20250415T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-31@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250422T100000
+
+DTEND;TZID=Europe/Berlin:20250422T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-32@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250429T100000
+
+DTEND;TZID=Europe/Berlin:20250429T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-33@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250506T100000
+
+DTEND;TZID=Europe/Berlin:20250506T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-34@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250513T100000
+
+DTEND;TZID=Europe/Berlin:20250513T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-35@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250520T100000
+
+DTEND;TZID=Europe/Berlin:20250520T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-36@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250527T100000
+
+DTEND;TZID=Europe/Berlin:20250527T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-37@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250603T100000
+
+DTEND;TZID=Europe/Berlin:20250603T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-38@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250610T100000
+
+DTEND;TZID=Europe/Berlin:20250610T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-39@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250617T100000
+
+DTEND;TZID=Europe/Berlin:20250617T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-40@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250624T100000
+
+DTEND;TZID=Europe/Berlin:20250624T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-41@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250701T100000
+
+DTEND;TZID=Europe/Berlin:20250701T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-42@junsche-calendar
+
+SUMMARY:Foundations of Software Engineering (Lüttgen)
+
+DTSTART;TZID=Europe/Berlin:20250708T100000
+
+DTEND;TZID=Europe/Berlin:20250708T120000
+
+LOCATION:WE5/00.022
+
+DESCRIPTION:Foundations of Software Engineering by Lüttgen in WE5/00.022
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-71@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250409T080000
+
+DTEND;TZID=Europe/Berlin:20250409T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-72@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250416T080000
+
+DTEND;TZID=Europe/Berlin:20250416T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-73@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250423T080000
+
+DTEND;TZID=Europe/Berlin:20250423T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-74@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250430T080000
+
+DTEND;TZID=Europe/Berlin:20250430T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-75@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250507T080000
+
+DTEND;TZID=Europe/Berlin:20250507T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-76@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250514T080000
+
+DTEND;TZID=Europe/Berlin:20250514T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-77@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250521T080000
+
+DTEND;TZID=Europe/Berlin:20250521T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-78@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250528T080000
+
+DTEND;TZID=Europe/Berlin:20250528T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-79@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250604T080000
+
+DTEND;TZID=Europe/Berlin:20250604T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-80@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250611T080000
+
+DTEND;TZID=Europe/Berlin:20250611T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-81@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250618T080000
+
+DTEND;TZID=Europe/Berlin:20250618T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-82@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250625T080000
+
+DTEND;TZID=Europe/Berlin:20250625T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-83@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250702T080000
+
+DTEND;TZID=Europe/Berlin:20250702T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-84@junsche-calendar
+
+SUMMARY:Web Technologien (Henrich)
+
+DTSTART;TZID=Europe/Berlin:20250709T080000
+
+DTEND;TZID=Europe/Berlin:20250709T100000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Web Technologien by Henrich in WE5/00.019
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-113@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250409T140000
+
+DTEND;TZID=Europe/Berlin:20250409T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-114@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250416T140000
+
+DTEND;TZID=Europe/Berlin:20250416T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-115@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250423T140000
+
+DTEND;TZID=Europe/Berlin:20250423T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-116@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250430T140000
+
+DTEND;TZID=Europe/Berlin:20250430T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-117@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250507T140000
+
+DTEND;TZID=Europe/Berlin:20250507T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-118@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250514T140000
+
+DTEND;TZID=Europe/Berlin:20250514T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-119@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250521T140000
+
+DTEND;TZID=Europe/Berlin:20250521T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-120@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250528T140000
+
+DTEND;TZID=Europe/Berlin:20250528T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-121@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250604T140000
+
+DTEND;TZID=Europe/Berlin:20250604T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-122@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250611T140000
+
+DTEND;TZID=Europe/Berlin:20250611T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-123@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250618T140000
+
+DTEND;TZID=Europe/Berlin:20250618T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-124@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250625T140000
+
+DTEND;TZID=Europe/Berlin:20250625T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-125@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250702T140000
+
+DTEND;TZID=Europe/Berlin:20250702T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-126@junsche-calendar
+
+SUMMARY:Web Technologien Übung Gruppe 2 (N.N.)
+
+DTSTART;TZID=Europe/Berlin:20250709T140000
+
+DTEND;TZID=Europe/Berlin:20250709T160000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Web Technologien Übung Gruppe 2 by N.N. in WE5/02.005
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-1@generated-calendar
+
+SUMMARY:Einführung in das wissenschaftliche Arbeiten, Gruppe 1 (Robin Jegan)
+
+DTSTART;TZID=Europe/Berlin:20250423T120000
+
+DTEND;TZID=Europe/Berlin:20250423T140000
+
+LOCATION:WE5/02.005
+
+DESCRIPTION:Introduction to scientific work for computer science, group 1
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+RRULE:FREQ=WEEKLY;UNTIL=20250711T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-2@generated-calendar
+
+SUMMARY:xAI-MML-B: Mathematics for Machine Learning (Prof. Dr. Christian Ledig)
+
+DTSTART;TZID=Europe/Berlin:20250422T160000
+
+DTEND;TZID=Europe/Berlin:20250422T180000
+
+LOCATION:WE5/00.019
+
+DESCRIPTION:Lecture on mathematics for machine learning
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+RRULE:FREQ=WEEKLY;UNTIL=20250711T000000Z
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:event-3@generated-calendar
+
+SUMMARY:xAI-MML-B: Mathematics for Machine Learning, Gruppe 2 (Jonas Alle)
+
+DTSTART;TZID=Europe/Berlin:20250424T120000
+
+DTEND;TZID=Europe/Berlin:20250424T140000
+
+LOCATION:WE5/05.003
+
+DESCRIPTION:Tutorial session for mathematics for machine learning, group 2
+
+STATUS:CONFIRMED
+
+SEQUENCE:0
+
+RRULE:FREQ=WEEKLY;UNTIL=20250711T000000Z
+END:VEVENT
+
 END:VCALENDAR
